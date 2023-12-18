@@ -1,4 +1,4 @@
-const personalKeyMy = "eugene-sokolov";
+const personalKeyMy = "kupriianov";
 const personalKey = "prod"
 const baseHost = "https://webdev-hw-api.vercel.app";
 const postsHost = `${baseHost}/api/v1/${personalKey}/instapro`;
